@@ -1,0 +1,61 @@
+body {
+  text-align: center;
+  font-family: "Red Hat Display", sans-serif;
+  background-color: hsl(225, 100%, 94%);
+  line-height: 1.5;
+}
+.main-div {
+  min-width: 400px;
+  max-width: 400px;
+  margin: 2rem auto;
+  border-radius: 20px;
+  overflow: hidden;
+}
+.main-div img {
+  width: 100%;
+}
+.main-div {
+  background-color: white;
+}
+.card-body {
+  padding: 2rem;
+}
+.order-summary {
+  margin: 0.5rem 0;
+}
+.order-summary h3 {
+  font-weight: 900;
+  color: rgb(14, 7, 44);
+  font-family: "Red Hat Display", sans-serif;
+}
+.order-summary p {
+  font-family: "Red Hat Display", sans-serif;
+  margin: 1rem auto;
+  color: grey;
+}
+.pricing-box {
+  background-color: hsl(225, 100%, 98%);
+  width: 100%;
+  margin: 1rem auto;
+}
+.music-logo-container {
+  width: 45px;
+  height: 45px;
+}
+.music-logo {
+  width: 100%;
+}
+.pricing-info {
+  padding-left: 1rem;
+}
+.pricing-info p {
+  color: gray;
+}
+.btn {
+  border-radius: 10px;
+  margin: 1rem auto;
+}
+.cancel-order {
+  text-decoration: none;
+  color: hsl(223, 47%, 23%);
+}
